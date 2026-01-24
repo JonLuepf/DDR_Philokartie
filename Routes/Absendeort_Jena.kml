@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+            <kml xmlns="http://www.opengis.net/kml/2.2">
+            <Document id="root_doc">
+            <Schema name="test" id="test">
+            	<SimpleField name="id" type="float"></SimpleField>
+            </Schema>
+            <Folder><name>test</name>
+              <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>11.586388888889,50.927222222222 11.028888888888888,50.97805555555556</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>11.586388888889,50.927222222222 12.705833333333,50.933611111111</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>11.586388888889,50.927222222222 13.3,52.516666666667</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>11.586388888889,50.927222222222 12.916666666667,50.833333333333</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>11.586388888889,50.927222222222 14.662222222222,50.896388888889</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>11.586388888889,50.927222222222 10.914166666667,50.687222222222</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>11.586388888889,50.927222222222 14.6528,50.87</coordinates></LineString></MultiGeometry>
+                </Placemark>
+
+            </Folder>
+            </Document></kml>

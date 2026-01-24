@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+            <kml xmlns="http://www.opengis.net/kml/2.2">
+            <Document id="root_doc">
+            <Schema name="test" id="test">
+            	<SimpleField name="id" type="float"></SimpleField>
+            </Schema>
+            <Folder><name>test</name>
+              <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 12.455555555556,51.729166666667</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 12.133333333333,54.083333333333</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 7.65389,51.5397</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 12.133333333333,54.083333333333</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 12.700833333333,50.585277777778</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 12.8,52.922222222222</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 13.7381437,51.0493286</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 12.3747329,51.3406321</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 7,49.233333333333</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 14.807222222222,50.896111111111</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 9.9355555555556,51.533888888889</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 7.2833333333333,50.783333333333</coordinates></LineString></MultiGeometry>
+                </Placemark>
+  <Placemark>
+	            <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+                <MultiGeometry><LineString><coordinates>13.066666666667,52.4 8.2408333333333,48.761944444444</coordinates></LineString></MultiGeometry>
+                </Placemark>
+
+            </Folder>
+            </Document></kml>
