@@ -7,3 +7,5 @@ How to use these scripts:
 5. After the source data is updated you may wish to newly generate the places from the "Schlagwörter" column. For this run this command on Windows: "py extract_normalize.py" or this command on Linux/MacOS: "python3 extract_normalize.py". It may be best to run this script on a CSV file only containing newly added or updated rows because this script will overwrite the columns containing the place names which will make it necessary to normalize places and re-generate the coordinates in OpenRefine before generating the routes again.
 
 These scripts were generated for a student project at the Humboldt-Universität Berlin in the project seminar Motiv, Message, Marke (WS 2025/26) by Ben Kaden and Ira Kokoshko with data provided by Ben Kaden.
+
+Original data: https://seatable.cms.hu-berlin.de/workspace/789/dtable/DDR%20Philokartie%20Ben%20Kaden%20Oktober%202025%20Tabelle/?tid=FuJv&vid=0000
